@@ -13,7 +13,7 @@ The generated report includes:
 - The report will be published daily at 9 a.m Europe/Paris timezone on the Twitter account [@TunisairDelays](https://x.com/TunisairDelays) 
 
 
-![Tunisair Delays report Preview](https://i.ibb.co/n0sgBB4/01-08-2022-report.png)
+
 
 ---
 <!--Programming languages-->
